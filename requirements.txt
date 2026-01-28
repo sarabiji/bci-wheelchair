@@ -1,2 +1,6 @@
+numpy
+scipy
+pandas
 pyserial
-keyboard
+pyautogui
+scikit-learn
